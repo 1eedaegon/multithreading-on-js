@@ -4,13 +4,11 @@
 
 ## Todos
 - [ ] Browser
-  - [ ] borwser
-- [ ] Browser
-  - [ ] borwser
-- [ ] Browser
-  - [ ] borwser
-- [ ] Browser
-  - [ ] borwser
-- [ ] Browser
-  - [ ] borwser
+- [ ] Node.js
+- [ ] Shared memory
+- [ ] Advanced shared memory
+- [ ] Thread patterns
+- [ ] WS
+- [ ] Structured copy
+
   
